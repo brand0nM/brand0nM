@@ -4,8 +4,8 @@
 <h2 align="left">Overview</h2> 
 <p align="left">Data Scientist specialized in creating efficient pipelines, predictive modeling, and application development.</p>
 
-- 🔭 I’m currently working on *EC2 for hosting applications, Mobile Dashboarding in Java, and Parsing documents into Graph Databases*
-- 🌱 I’m currently learning *Cloud Data Engineering through AWS, Dgraph, and Algorithms in Java*
+- 🔭 I’m currently working on *EC2 for hosting applications, mobile dashboarding in Java, and parsing documents into Graph Databases*
+- 🌱 I’m currently learning *Cloud Data Engineering through AWS, Dgraph, and mobile development in Java*
 - 💬 Ask me about *The time I walked really far- like 2 miles- to get icecream, but then got there and realized I didn't have a wallet, so I walked all the way back home only to find my wallet in my pocket, so I walked all the way back but they were out for lunch, so I went to the closest gas station and bought a pushup pop, but then I learned pushup pops aren't icecream.*
 - ⚡ Fun fact: *I share 50% of my DNA with a banana*
 
